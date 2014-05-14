@@ -3,5 +3,6 @@ new feature
 puts "ok"
 ```
 `
-echo 'ok'
+echo 'ok';
+console.log 'test'
 `
